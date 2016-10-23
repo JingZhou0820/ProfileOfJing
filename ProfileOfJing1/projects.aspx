@@ -45,7 +45,7 @@
        <div class="item">    
      <a href="http://projectdatatracking2016.azurewebsites.net/"> <img src="Asset/gametracker.jpg" alt="..."></a>
       <div class="carousel-caption">
-        <h3>Game Tracking/h3>
+        <h3>Game Tracking</h3>
     <p>Project 4</p>
       </div>
     </div>
